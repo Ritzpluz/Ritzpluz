@@ -1,17 +1,17 @@
 rpc port: 15063
 net port: 15064
 
-# Ritzplus
+# Ritzpluz
 
-Ritzplus: The Preferred Advanced Cryptocurrency
+Ritzpluz: The Preferred Advanced Cryptocurrency
 
-## What is Ritzplus?
-Ritzplus is an advanced cryptocurrency. Taking development cues from Bitcoin & Litecoin and building upon it, Ritzplus now employs advanced X11 Hashing Algorithm coupled with Dark Gravity Wave Difficulty Retargeting Algorithm methodologies which boasts significant advantages over their Scrypt counterparts.
+## What is Ritzpluz?
+Ritzpluz is an advanced cryptocurrency. Taking development cues from Bitcoin & Litecoin and building upon it, Ritzpluz now employs advanced X11 Hashing Algorithm coupled with Dark Gravity Wave Difficulty Retargeting Algorithm methodologies which boasts significant advantages over their Scrypt counterparts.
 
 http://ritzcoin.com/
 
 ## License 
-Ritzplus is released under the terms of the MIT license. See [COPYING](COPYING)
+Ritzpluz is released under the terms of the MIT license. See [COPYING](COPYING)
 for more information or see http://opensource.org/licenses/MIT.
 
 ## Development and contributions
@@ -19,12 +19,12 @@ Development is ongoing, and the development team, as well as other volunteers, c
 
 ## Frequently Asked Questions
 
-### How much Ritzplus can exist? 
-There will be 500,000,000 Ritzplus.
+### How much Ritzpluz can exist? 
+There will be 500,000,000 Ritzpluz.
 Each subsequent block will grant 70 coins to encourage miners to continue to secure the network and make up for lost wallets on hard drives/phones/lost encryption passwords/etc.
 
-### How to get Ritzplus?
-Ritzplus uses an advanced X11 Hashing Algorithm. Because it was designed specifically for cryptocurrencies, X11 has the one of the most sophisticated cryptographic hashes currently in use. It has the advantage of a multi-hash system, meaning that in order for the algorithm to fail, all eleven of its hashes would have to fail at the same time. Taking into account the very minute probability that even one hash would be broken, the chance of the X11 system failing becomes almost zero.
+### How to get Ritzpluz?
+Ritzpluz uses an advanced X11 Hashing Algorithm. Because it was designed specifically for cryptocurrencies, X11 has the one of the most sophisticated cryptographic hashes currently in use. It has the advantage of a multi-hash system, meaning that in order for the algorithm to fail, all eleven of its hashes would have to fail at the same time. Taking into account the very minute probability that even one hash would be broken, the chance of the X11 system failing becomes almost zero.
 
 Originally, a different payout scheme was envisioned with block rewards being determined by taking the maximum reward as per the block schedule and applying the result of a Mersenne Twister pseudo-random number generator to arrive at a number between 0 and the maximum reward.
 
